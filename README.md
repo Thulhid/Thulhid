@@ -1,13 +1,13 @@
-[![MasterHead](https://th.bing.com/th/id/R.982a1ff392a15b58eb5fea1b404f7246?rik=MU%2fsoJV1mCRBQQ&riu=http%3a%2f%2fmedia.giphy.com%2fmedia%2f3o85xBdKvdbJqUKtsQ%2fgiphy.gif&ehk=208sPLQrB8FbtWsvjdontrExqrz5eyiHwgAYQXqcXyQ%3d&risl=&pid=ImgRaw&r=0)]
+
 <h1 align="center">Hi 👋, I'm Thulhid</h1>
-<h3 align="center">Coding Explorer | Java Dev-in-Progress 🚀 from Sri Lanka</h3>
+<h3 align="center">Coding Explorer | Dev-in-Progress 🚀 from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thulhid&label=Profile%20views&color=0e75b6&style=flat" alt="thulhid" /> </p>
 
-- 🌱 I’m currently learning **Java | On the Road to an IT Degree**
+- 🌱 I’m currently learning **JavaScript & Java | On the Road to an IT Degree**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java**,**JavaScript**
 
 - 📫 How to reach me **thulhid@gmail.com**
 
