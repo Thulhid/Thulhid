@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript & Java | On the Road to an IT Degree**
 
-- 💬 Ask me about **Java**,**JavaScript**
+- 💬 Ask me about **Java**, **JavaScript**
 
 - 📫 How to reach me **thulhid@gmail.com**
 
