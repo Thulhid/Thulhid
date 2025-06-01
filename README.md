@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **Frontend Web Development**  
+- 🌱 I’m currently learning **Full-Stack Web Development**  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 Pursuing an **IT Degree**
 - 💬 Ask me about **Next.js**, **React.js**
 - 📫 Reach me at: **thulhid@gmail.com**
